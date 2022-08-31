@@ -1,0 +1,8 @@
+^\.travis\.yml$
+^.*\.Rproj$
+^\.Rproj\.user$
+^tools$
+inst/examples$
+^codecov\.yml$
+^\.github$
+^LICENSE\.md$
